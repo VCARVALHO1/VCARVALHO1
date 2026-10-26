@@ -1,51 +1,49 @@
-# Hello, I'm Victor Alvarenga Carvalho 👋
+# Hi, I'm Victor Alvarenga Carvalho 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Surveying_Engineer-003B5C?style=for-the-badge&logo=google-earth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Offshore_Data_Processor-005A9C?style=for-the-badge&logo=anchor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Geodesy_%26_Photogrammetry-4B8BBE?style=for-the-badge&logo=cloud&logoColor=white" />
+**Surveying Engineer · Offshore Surveyor & Data Processor · Python Developer**
+
+I connect offshore surveying, geodetic research, and Python development to process spatial data, assess measurement quality, and automate 3D workflows.
+
+<p>
+  <img alt="Field: Offshore Survey" src="https://img.shields.io/badge/Offshore-Survey-003B5C?style=flat-square" />
+  <img alt="Focus: 3D Geodesy" src="https://img.shields.io/badge/3D-Geodesy-167D8D?style=flat-square" />
+  <img alt="Language: Python" src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
----
+## About me
 
-### 👨‍💻 Professional Profile
-Data Processor and Surveying Engineer with extensive experience supporting offshore and onshore subsea survey projects in the Oil & Gas industry. Specialized in the processing, QA/QC, and delivery of AUV, ROV, and hydrographic survey data. Strong expertise in EIVA NaviSuite, multibeam bathymetry (MBES), subsea photogrammetry, and Python workflow automation. Experienced in international offshore campaigns, onboard acquisition support, and multidisciplinary team environments.
+I work as a **Surveyor and Data Processor in the offshore oil and gas industry**, with experience in 3D dimensional control, multibeam bathymetry, subsea photogrammetry, and ROV/AUV survey operations.
 
-* 🎓 **M.Sc. in Geodesy and Hydrography** — Federal University of Viçosa (UFV) *(In progress)*
-* 📊 **MBA in Data Science & Analytics** — University of São Paulo (USP)
-* 📐 **B.Sc. in Surveying Engineering** — Federal University of Viçosa (UFV)
+Alongside my professional work, I am pursuing a **Master's degree in Civil Engineering at the Federal University of Viçosa (UFV)**. My research focuses on geodetic networks, spatial coordinate transformations, and the analysis of precision and accuracy.
 
----
+I develop Python tools to automate photogrammetric processing, filter point clouds, and support observation adjustment and spatial data analysis.
 
-### 💼 Current Role
-**Data Processor** @ **Oceaneering** *(Feb 2023 - Present)*
-* Offshore and onshore processing of subsea survey data for international AUV/ROV inspection campaigns.
-* Integration of MBES, INS, DVL, USBL, GNSS, and Pipe Tracker data using EIVA NaviSuite.
-* Development of Python applications to automate repetitive processing, QA/QC checks, and reporting workflows.
+## Areas of focus
 
----
+| Area | Focus |
+| --- | --- |
+| **Offshore surveying** | Multibeam bathymetry and ROV/AUV survey operations |
+| **3D dimensional control** | Subsea measurements and spatial coordinate transformations |
+| **Photogrammetry** | Subsea reconstruction and processing automation |
+| **Geodesy & measurement quality** | Geodetic networks, observation adjustment, precision, and accuracy |
+| **Scientific software** | Python tools for spatial data processing and analysis |
 
-### 🛠️ Core Expertise & Tech Stack
+## Technologies & tools
 
-| Domain | Skills & Tools |
-| :--- | :--- |
-| **Survey & Subsea** | Offshore/Onshore Processing, QA/QC, Navigation Review, AUV/ROV Inspection, Pipeline Inspection |
-| **Survey Systems** | MBES, Pipe Tracker, INS, DVL, USBL, GNSS, Optical Imagery |
-| **Photogrammetry** | Image QA/QC, Camera Calibration, 3D Models, Dense Point Clouds, Metrology (Agisoft Metashape) |
-| **Software** | EIVA NaviSuite, Agisoft Metashape, QGIS, CloudCompare, AutoCAD Map 3D |
-| **Programming** | Python (`pandas`, `numpy`, `scipy`, `laspy`, `OpenCV`, `PySide`), Git/GitHub |
+**Programming & data**<br>
+Python · Pandas · OpenCV · laspy · rasterio · PySide · Git · GitHub
 
----
+**Photogrammetry & point clouds**<br>
+Agisoft Metashape · CloudCompare
 
-### 🚀 Featured Projects
-* **[`02_GeoRede Ajuste`]:** Python-based routines developed for 3D coordinate transformations, network adjustments, and observation equations integrated into master's research.
-* **Photogrammetric Automation:** Custom Python and PySide scripts designed for position decimation, sub-block alignment, and deep learning image enhancement integration for underwater imagery.
+**Hydrography & offshore surveying**<br>
+EIVA NaviSuite · QPS Qimera · Teledyne CARIS
 
----
+**CAD & mapping**<br>
+AutoCAD Map 3D
 
-### 📊 GitHub Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VCARVALHO1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCARVALHO1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## Education
+
+- **Master's in Civil Engineering — in progress** · Federal University of Viçosa (UFV)
+- **Postgraduate degree in Data Science** · University of São Paulo (USP)
+- **Degree in Surveying Engineering** · Federal University of Viçosa (UFV)
